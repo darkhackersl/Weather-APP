@@ -39,7 +39,7 @@ h1 {
     margin-top: 2rem;
 }
 .weather-card {
-    background-color: black;
+    background-color: white;
     border-radius: 15px;
     padding: 1.5rem;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
