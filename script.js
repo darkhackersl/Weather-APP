@@ -54,7 +54,7 @@ async function getWeather() {
                         <div class="detail">
                             <i class="fas fa-wind"></i>
                             <div class="detail-info">
-                                <div>𝐖𝐈𝐍𝐃/div>
+                                <div>𝐖𝐢𝐧𝐝</div>
                                 <div>${windSpeed} m/s</div>
                             </div>
                         </div>
