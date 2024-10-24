@@ -40,49 +40,49 @@ async function getWeather() {
                         <div class="detail">
                             <i class="fas fa-thermometer-half"></i>
                             <div class="detail-info">
-                                <div>Feels like</div>
+                                <div>𝐅𝐞𝐞𝐥𝐬 𝐋𝐢𝐤𝐞</div>
                                 <div>${feelsLike}°C</div>
                             </div>
                         </div>
                         <div class="detail">
                             <i class="fas fa-tint"></i>
                             <div class="detail-info">
-                                <div>Humidity</div>
+                                <div>𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲</div>
                                 <div>${humidity}%</div>
                             </div>
                         </div>
                         <div class="detail">
                             <i class="fas fa-wind"></i>
                             <div class="detail-info">
-                                <div>Wind</div>
+                                <div>𝐖𝐈𝐍𝐃/div>
                                 <div>${windSpeed} m/s</div>
                             </div>
                         </div>
                         <div class="detail">
                             <i class="fas fa-compress-arrows-alt"></i>
                             <div class="detail-info">
-                                <div>Pressure</div>
+                                <div>𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞</div>
                                 <div>${pressure} hPa</div>
                             </div>
                         </div>
                         <div class="detail">
                             <i class="fas fa-eye"></i>
                             <div class="detail-info">
-                                <div>Visibility</div>
+                                <div>𝐕𝐢𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐲</div>
                                 <div>${visibility} km</div>
                             </div>
                         </div>
                         <div class="detail">
                             <i class="fas fa-sun"></i>
                             <div class="detail-info">
-                                <div>Sunrise</div>
+                                <div>𝐒𝐮𝐧𝐫𝐢𝐬𝐞</div>
                                 <div>${sunrise}</div>
                             </div>
                         </div>
                         <div class="detail">
                             <i class="fas fa-moon"></i>
                             <div class="detail-info">
-                                <div>Sunset</div>
+                                <div>𝐒𝐮𝐧𝐬𝐞𝐭</div>
                                 <div>${sunset}</div>
                             </div>
                         </div>
